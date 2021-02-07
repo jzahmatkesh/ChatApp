@@ -1,16 +1,22 @@
-# chat
+# Chat App UI Design In Flutter
 
-A new Flutter project.
+Sample Chat App Design In Flutter
+Connect to Api writen in python and deploy to Heroku
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Front end: Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Back end : Python
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Database : Postgresql
+
+
+![Preview](images/preview.png)
+
+
+[find me here ](http://zahmatkesh.dev), to hire :sunglasses:,
+
+[![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png "Buy Me A Coffee")](https://www.buymeacoffee.com/AZahmatkesh "Buy Me A Coffee")
+
+
